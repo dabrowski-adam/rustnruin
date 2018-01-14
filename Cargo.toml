@@ -5,3 +5,4 @@ authors = ["Adam Dąbrowski <contact@adamdabrowski.com>"]
 
 [dependencies]
 tcod = "0.12"
+rand = "0.4.2"
